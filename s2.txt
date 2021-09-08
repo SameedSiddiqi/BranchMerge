@@ -1,3 +1,2 @@
-I am Osamaaaaa
-Inspireeeee ERP
-Contour
+c=22;
+d=44;
